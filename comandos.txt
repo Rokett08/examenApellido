@@ -2,3 +2,4 @@
 2. mkdir prog si bbdd
 3. touch prog/index.php
 4. cp si/../prog/index.php si/../bbdd/consultas.sql
+5. mkdir si/git
