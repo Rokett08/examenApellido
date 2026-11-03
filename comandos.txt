@@ -8,3 +8,5 @@
 8. rm ../../bbdd/consultas.sql
 9. mv ../../prog/index.php index2.php
 10. echo "select * from clientes" >> ../../bbdd/consultas.sql
+11. cd ..
+12. rm -rf examenApellido
